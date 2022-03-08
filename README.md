@@ -1,5 +1,5 @@
-understanding this world of coding day by day, learning front-end technologies 
+bem vindo ao meu perfil no GitHub
 
 <!---
-testing this read.me file
+editando um read.me file
 --->
